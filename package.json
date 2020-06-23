@@ -10,15 +10,15 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@babel/core": "^7.9.0",
-    "@babel/polyfill": "^7.8.7",
-    "@babel/preset-env": "^7.9.0",
-    "@babel/register": "^7.9.0",
-    "@walmartlabs/json-to-simple-graphql-schema": "^2.0.0",
+    "@babel/core": "^7.10.3",
+    "@babel/polyfill": "^7.10.1",
+    "@babel/preset-env": "^7.10.3",
+    "@babel/register": "^7.10.3",
+    "@walmartlabs/json-to-simple-graphql-schema": "^2.0.1",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
-    "graphql": "^14.6.0",
-    "puppeteer": "^2.1.1"
+    "graphql": "^15.1.0",
+    "puppeteer": "^4.0.0"
   }
 }
